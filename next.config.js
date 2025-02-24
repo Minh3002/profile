@@ -10,6 +10,7 @@ const nextConfig = {
     includePaths: [path.join(__dirname, 'styles')],
   },
   images: {
+    unoptimized: true, // Bỏ tối ưu ảnh vì GitHub Pages không hỗ trợ
     domains: [
       'media.dev.to',
       'avatars.githubusercontent.com',
