@@ -1,13 +1,14 @@
 export const userData = {
-  githubUser: 'said7388',
-  devUsername: "said7388",
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
+  name: "Truong Gia Minh",
+  githubUser: 'Minh3002',
+  devUsername: "Minh3002",
+  github: 'https://github.com/Minh3002',
+  facebook: 'https://www.facebook.com/gia.minh.37996',
+  linkedIn: '',
+  twitter: '',
+  stackOverflow: '',
   leetcode: "https://leetcode.com/said3812/",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing",
-  skills: ['React', 'NextJS', 'Redux', 'Express', 'NestJS', 'MySql', 'MongoDB', 'Postgres', 'Docker', 'AWS'],
+  resume: "https://drive.google.com/drive/folders/12H9VqPEO1xeVZseI84MhQ7LHEPIQovnc?usp=sharing",
+  skills: ['JAVA','JAVA Script', 'Sql Server', 'MongoDB', 'Postman'],
   timezone: '+6'
 };
